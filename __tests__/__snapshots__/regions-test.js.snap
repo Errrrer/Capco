@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render regions page 1`] = `
+<View>
+  <Text
+    testID="textTest"
+  >
+    Regions Page
+  </Text>
+</View>
+`;
